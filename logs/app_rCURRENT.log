@@ -1,0 +1,5 @@
+[2024-12-14 15:27:27.170213 +08:00] INFO [aca_chat] src/main.rs:27: Starting Actix-Web server...
+[2024-12-14 15:27:27.174776 +08:00] INFO [actix_server::builder] G:\Environment\Rust\cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-server-2.5.0\src\builder.rs:272: starting 24 workers
+[2024-12-14 15:27:27.174988 +08:00] INFO [actix_server::server] G:\Environment\Rust\cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-server-2.5.0\src\server.rs:191: Actix runtime found; starting in Actix runtime
+[2024-12-14 15:27:27.175113 +08:00] INFO [actix_server::server] G:\Environment\Rust\cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-server-2.5.0\src\server.rs:197: starting service: "actix-web-service-127.0.0.1:8000", workers: 24, listening on: 127.0.0.1:8000
+[2024-12-14 15:27:40.501079 +08:00] INFO [actix_web::middleware::logger] G:\Environment\Rust\cargo\registry\src\index.crates.io-6f17d22bba15001f\actix-web-4.9.0\src\middleware\logger.rs:424: 127.0.0.1 "GET /home HTTP/1.1" 200 17 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" 0.000446
